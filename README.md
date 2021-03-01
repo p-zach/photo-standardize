@@ -28,9 +28,9 @@ Ever seen a fancy-shmancy "Meet the Team" page with crisp, matching photos of al
 
 **After** `python standardize.py -f samples -r -15 -g -c -s 200 200`:
 
+![img2](https://user-images.githubusercontent.com/76142641/109449096-948b6f80-7a15-11eb-81ec-b44e2e6a6af8.png)
 ![img0](https://user-images.githubusercontent.com/76142641/109449094-93f2d900-7a15-11eb-86ee-10ae46d701a3.png)
 ![img1](https://user-images.githubusercontent.com/76142641/109449095-948b6f80-7a15-11eb-8242-a8e7eb73beb1.png)
-![img2](https://user-images.githubusercontent.com/76142641/109449096-948b6f80-7a15-11eb-81ec-b44e2e6a6af8.png)
 
 **Before:**
 ---
