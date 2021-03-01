@@ -42,9 +42,9 @@ Ever seen a fancy-shmancy "Meet the Team" page with crisp, matching photos of al
 
 **After** `python standardize.py -f samples -c -s 200 200 -b skybg.jpg`:
 
-![img5](https://user-images.githubusercontent.com/76142641/109448785-cea84180-7a14-11eb-84bf-4313a1f07870.png)
 ![img3](https://user-images.githubusercontent.com/76142641/109448786-cf40d800-7a14-11eb-9109-7bd7fa9eb4b5.png)
 ![img4](https://user-images.githubusercontent.com/76142641/109448787-cf40d800-7a14-11eb-8538-c27ffd0663a9.png)
+![img5](https://user-images.githubusercontent.com/76142641/109448785-cea84180-7a14-11eb-84bf-4313a1f07870.png)
 
 ---
 
