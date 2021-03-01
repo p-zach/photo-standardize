@@ -26,11 +26,11 @@ Ever seen a fancy-shmancy "Meet the Team" page with crisp, matching photos of al
 ![face1](https://user-images.githubusercontent.com/76142641/109447808-8851e300-7a12-11eb-8fff-02d273a5a9bd.jpg)
 ![face2](https://user-images.githubusercontent.com/76142641/109447809-88ea7980-7a12-11eb-9f03-8affc88923c5.jpg)
 
-**After** `python standardize.py -f samples -r 15 -g -c -s 300 300`:
+**After** `python standardize.py -f samples -r -15 -g -c -s 200 200`:
 
-![img2](https://user-images.githubusercontent.com/76142641/109448492-17abc600-7a14-11eb-83ad-b417734a9d8c.png)
-![img0](https://user-images.githubusercontent.com/76142641/109448493-18445c80-7a14-11eb-87f5-4b6debb758a3.png)
-![img1](https://user-images.githubusercontent.com/76142641/109448494-18445c80-7a14-11eb-8877-83037bac7247.png)
+![img0](https://user-images.githubusercontent.com/76142641/109449094-93f2d900-7a15-11eb-86ee-10ae46d701a3.png)
+![img1](https://user-images.githubusercontent.com/76142641/109449095-948b6f80-7a15-11eb-8242-a8e7eb73beb1.png)
+![img2](https://user-images.githubusercontent.com/76142641/109449096-948b6f80-7a15-11eb-81ec-b44e2e6a6af8.png)
 
 **Before:**
 ---
